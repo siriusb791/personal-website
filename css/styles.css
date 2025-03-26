@@ -45,3 +45,20 @@ footer {
     background-color: #17a2b8;
     border-color: #17a2b8;
 }
+
+body {
+    background-color: #f8f9fa; /* Light gray background */
+    color: #333; /* Dark gray text */
+}
+
+h1, h2, h3 {
+    color: #007bff; /* Blue for headings */
+}
+
+a {
+    color: #007bff; /* Blue for links */
+}
+
+a:hover {
+    color: #0056b3; /* Darker blue when hovering over links */
+}
